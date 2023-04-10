@@ -1,0 +1,29 @@
+{
+  "name": "e2e-frameworks",
+  "version": "1.0.0",
+  "description": "E2E Framewok Testing Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Ing-Andres-Medina/cypressTutorial.git"
+  },
+  "keywords": [
+    "e2e",
+    "automation",
+    "framework",
+    "cypress"
+  ],
+  "author": "AndresMedina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ing-Andres-Medina/cypressTutorial/issues"
+  },
+  "homepage": "https://github.com/Ing-Andres-Medina/cypressTutorial#readme",
+  "devDependencies": {
+    "cypress": "^12.9.0"
+  }
+}
